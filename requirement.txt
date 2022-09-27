@@ -1,0 +1,36 @@
+First the Creating Environment for this code
+
+Steps to Follow:
+
+1. Open the Anaconda Environment in Anaconda Command Prompt.
+
+2. Create the new virtual Environment 
+
+3. Activate the Virtual Environment
+
+4. Pip installation for opencv, numpy packages in Anaconda Environment.
+   Then, 
+
+	 Cmd -->	pip install opencv-python
+
+	 Cmd -->	pip install numpy
+
+	 Cmd -->	pip install imutils
+
+
+5. Now the open the code.
+      
+  Download the video from this link--> https://www.kaggle.com/datasets/dpamgautam/video-file-for-lane-detection-project
+
+		Line 130 : change the path of Video which you have.
+ 
+6.Now, run the code in Anaconda Environment, 
+
+    Cmd --> python happy.py
+
+-------------------------------------------------------------------
+
+More details related check this link given below,
+
+
+	https://www.kaggle.com/code/soumya044/lane-line-detection
